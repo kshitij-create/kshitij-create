@@ -40,7 +40,8 @@ Some of my public projects — and much more in private/freelance repos
 
 - Email: `kshitijjadhav257@gmail.com`
 - GitHub: https://github.com/kshitij-create  
-- Portfolio / Personal Site: `https://portfolio-app-f1v.pages.dev/`  
+- Portfolio / Personal Site: `https://portfolio-app-f1v.pages.dev/`
+- Instagram: `https://portfolio-app-f1v.pages.dev/`
 
 ---
 
