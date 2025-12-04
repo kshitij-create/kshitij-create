@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-  🔰 README for Kshitij’s GitHub Profile
-  Feel free to customize: add your real email, social links, project descriptions, images etc.
--->
-
 # Hi there 👋, I’m **Kshitij**
 
 ## 🚀 About Me  
@@ -45,11 +40,9 @@ Some of my public projects — and much more in private/freelance repos
 
 ## 📬 Contact / Connect  
 
-<!-- Replace placeholders with real links / email / socials -->  
-- Email: `<your-email-here>`  
-- LinkedIn: `<your-linkedin-url>`  
+- Email: `kshitijjadhav257@gmail.com`
 - GitHub: https://github.com/kshitij-create  
-- Portfolio / Personal Site: `<your-portfolio-link>`  
+- Portfolio / Personal Site: `https://portfolio-app-f1v.pages.dev/`  
 
 ---
 
