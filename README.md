@@ -1,64 +1,18 @@
-# Hi there 👋, I’m **Kshitij**
+# 💫 About Me:
+🎓 Diploma student in AI & ML (first year)<br>💻 Web & Front-end developer with ~3 years of experience<br>🔧 Python developer, learning C++ and Machine Learning / Agentic AI<br>🚀 Passionate about building web apps, experiments with JS/React & small AI / utility projects<br>⚙️ Have done some freelance projects — love collaborating & building real-world stuff<br>Currently also building 2 Apps
 
-## 🚀 About Me  
-- 🎓 Diploma student in AI & ML (first year)  
-- 💻 Web & Front-end developer with ~3 years of experience  
-- 🔧 Python developer, learning C++ and Machine Learning / Agentic AI  
-- 🚀 Passionate about building web apps, experiments with JS/React & small AI / utility projects  
-- ⚙️ Have done some freelance projects — love collaborating & building real-world stuff  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshitij_257) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitij-jadhav-8332373b4) 
 
-## 📂 What you’ll find here
-Some of my public projects — and much more in private/freelance repos  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kshitij-create&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kshitij-create&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kshitij-create&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-| Project / Repo | Tech / Stack | Purpose / What it demonstrates |
-|----------------|--------------|--------------------------------|
-| **NewsMonkey** | JavaScript / Web | A news aggregator / news-fetching web app |
-| **Tesla-clone** | HTML / CSS / JS | A sample clone of Tesla’s landing page (UI/UX practice) |
-| **Tindog-clone** | HTML / CSS / JS | Practice project — shows ability in layout, styling, responsiveness |
-| **Dicee-Game** | JS / HTML / CSS | Mini-game with JS logic — good for JS fundamentals |
-| **Drum-Kit** | JS / HTML / CSS | Interactive UI with JS event handling (shows DOM & JS skills) |
-| **menu-app** | JS / HTML / CSS | UI + JS app to show menu / dynamic list handling |
-| *(more projects…)* | | |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-> 🔒 Private / Freelance Projects — not visible here. Ask me if you want details or live demo links 😉
-
----
-
-## 🧰 Skills & Technologies  
-
-- **Frontend:** HTML, CSS, JavaScript, DOM & UI/UX  
-- **Web Apps:** Vanilla JS, small-scale projects, responsive design  
-- **Languages:** Python (basic/intermediate), JavaScript  
-- **Learning:** C++, AI / Machine Learning fundamentals  
-- **Freelancing:** Web-development freelance work — building client sites / small apps  
-
----
-
-## 📬 Contact / Connect  
-
-- Email: `kshitijjadhav257@gmail.com`
-- GitHub: https://github.com/kshitij-create  
-- Portfolio / Personal Site: `https://portfolio-app-f1v.pages.dev/`
-- Instagram: `https://portfolio-app-f1v.pages.dev/`
-
----
-
-## ⭐ Why you should connect with me  
-- I have a **strong foundation in front-end development**, with hands-on projects practicing HTML/CSS/JS + responsive design.  
-- I’m **eager to learn and grow** — currently diving into Python, C++ and AI/ML.  
-- I’m **open for freelance work, collaboration or mentorship**.  
-- I love building **practical web apps and functional projects**, not just learning — so expect real, working demos.  
-
----
-
-## 📌 How you can support / collaborate  
-1. ⭐ Star / watch 📌 my public repos if you like them  
-2. Reach out if you want help with web-projects, small JS/Python tasks or want to collaborate  
-3. Give feedback / suggestions — I love improving and learning  
-
----
-
-**Thanks for visiting my profile — hope you find something useful or interesting.**  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
